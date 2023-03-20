@@ -3,7 +3,7 @@ Link: https://react-memory-card.vercel.app/
 
 For win you need to click all the cards with no repeating.
 
-# Learned features in this project:
+# Features in this project:
 
 Life Cycle Methods and Hooks: 
 - Creation of the component (componentDidMount)
